@@ -4,6 +4,10 @@ The "Producing Graphic Models using Tkinter Module in Python" project aims to de
 
 This project provides a hands-on approach to understand the basics of Tkinter, such as creating and configuring widgets, handling events, and drawing shapes on a canvas. Through interactive examples, users can learn how to develop simple graphic models that showcase various shapes, colors, and interactive elements.
 
+# Priview:
+![blank pagek](https://github.com/srikarthik9909/Python-Project-s/assets/96328964/61e1a800-92d3-4071-b0a7-e157c2f95ca6)
+![objects k](https://github.com/srikarthik9909/Python-Project-s/assets/96328964/efe80297-3bff-4849-91d0-2a4496aade1b)
+
 # LinkedIn Post URL:
 The project was shared on LinkedIn to showcase the interactive graphical models developed using Tkinter. You can view the project's demonstration and details on LinkedIn through the following URL: LinkedIn Post
 
